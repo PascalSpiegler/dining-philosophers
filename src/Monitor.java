@@ -21,9 +21,6 @@ public class Monitor
 	// (Task 2): Additional field to track the status of each chopstick
 	private boolean[] chopstickAvailable;
 
-	// (Task 2): Counter for initialized philosophers
-	private int initializedPhilosophers = 0;
-
 	// (Task 3): Array to store the priority of each philosopher
 	private int[] priorities;
 
